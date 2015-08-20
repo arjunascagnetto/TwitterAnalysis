@@ -1,8 +1,8 @@
 #consumer key, consumer secret, access token, access secret.
-consumer_key = "qhuyCvdjyOSMoaOqygSuvwxfb"
-consumer_secret = "WQ22CUgB2mzruaaq3JzhJUwtnRM9VJKfb3luakxCzoDvClEhou"
-access_key = "3360102225-wnRQZynwxFa9SDRkTRkpHH6rGrzD9KKaTvpy8g5"
-access_secret = "KTncJcU5UrWbXpHRpX9J7HLmUxqnUcL2gPxGigbIH6Y3Y"
+consumer_key = "your"
+consumer_secret = "your"
+access_key = "your"
+access_secret = "your"
 
 ### code to save tweets in json###
 import sys
